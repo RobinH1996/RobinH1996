@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Fullstack & Blockchain Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Senior Frontend & FullStack Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <div align="center">
   <h2>Telegram: @RobinH1026 , Skypeid: live:.cid.ba3bee9c03af867c</h2>
@@ -12,11 +12,10 @@ With 5 years of full-stack web development experience for global businesses, I o
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
  <div style="text-align: center;"><h1>My Skills</h1></div>
   <ul>
-    <li>Front-End: React.js, Angular, Vue.js, Svelte</li>
-    <li>Back-End: NodeJS/ExpressJS, Django, Laravel, Nestjs</li>
+    <li>Front-End: React.js, Angular, Vue.js, Svelte, JSS</li>
+    <li>Back-End: NodeJS/ExpressJS, Django, Laravel, Nestjs, Python</li>
     <li>Mobile:React Native, Flutter</li>
     <li>Database Programming: MySQL, MongoDB, PostgreSQL, MS SQL, SQLite</li>
-    <li>BlockChain: Bitcoin, Ethereum, Ethereum 2.0, Solidity, ERC(BEP)20/721/1155, Stable Coin, Binance, UniSwap(SushiSwap), Staking Pool, Mining Pool, Dapp, Web3.js, Ether.js</li>
     <li>Other: Git, SVN, Jira, Trello, Docker, Jenkins, Jestjs, Jasmine,Selenium, GCP, AWS, Firebase, Three.js</li>
 <table>
   <tr>
